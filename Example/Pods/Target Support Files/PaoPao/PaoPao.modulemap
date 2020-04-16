@@ -1,0 +1,6 @@
+framework module PaoPao {
+  umbrella header "PaoPao-umbrella.h"
+
+  export *
+  module * { export * }
+}

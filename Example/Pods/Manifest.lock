@@ -1,0 +1,31 @@
+PODS:
+  - HandyJSON (5.0.1)
+  - Kingfisher (4.10.1)
+  - PaoPao (0.1.1):
+    - HandyJSON
+    - Kingfisher
+    - SnapKit
+  - SnapKit (4.2.0)
+
+DEPENDENCIES:
+  - PaoPao (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - HandyJSON
+    - Kingfisher
+    - SnapKit
+
+EXTERNAL SOURCES:
+  PaoPao:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HandyJSON: d45b8415c501e3affc59ca9762c1197ff0feb646
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  PaoPao: 5cc7c88f875f5dac092c13c054789e9ad9c55cb6
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+
+PODFILE CHECKSUM: 66952173e943392b2a3002cbd56441909c389aa0
+
+COCOAPODS: 1.8.4
