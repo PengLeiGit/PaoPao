@@ -30,7 +30,7 @@
 
 /* Begin PBXFileReference section */
 		0216011924484243008FA0F1 /* GreenViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GreenViewController.swift; sourceTree = "<group>"; };
-		12487105551B22F451893020 /* PaoPao.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = PaoPao.podspec; path = ../PaoPao.podspec; sourceTree = "<group>"; };
+		12487105551B22F451893020 /* PaoPao.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = PaoPao.podspec; path = ../PaoPao.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		148557F9C4B7D8DD19C032DB /* Pods_PaoPao_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PaoPao_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3EF3032FD8DC9E987B68A440 /* Pods-PaoPao_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PaoPao_Example.release.xcconfig"; path = "Target Support Files/Pods-PaoPao_Example/Pods-PaoPao_Example.release.xcconfig"; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* PaoPao_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PaoPao_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
